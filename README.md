@@ -22,7 +22,18 @@ My approach utilizes:
 
 ## File Structure
 
-. ├── models │ └── LaBSE_model ├── notebooks │ └── prediction_notebook.ipynb ├── src │ ├── model.py │ └── utils.py ├── README.md └── requirements.txt
+```plaintext
+.
+├── models
+│   └── LaBSE_model
+├── notebooks
+│   └── prediction_notebook.ipynb
+├── src
+│   ├── model.py
+│   └── utils.py
+├── README.md
+└── requirements.txt
+```
 
 ## Setup & Installation
 
