@@ -22,15 +22,14 @@ My approach utilizes:
 
 ## File Structure
 
-├── models │ └── LaBSE_model ├── notebooks │ └── prediction_notebook.ipynb ├── src │ ├── model.py │ └── utils.py ├── README.md └── requirements.txt
-
+. ├── models │ └── LaBSE_model ├── notebooks │ └── prediction_notebook.ipynb ├── src │ ├── model.py │ └── utils.py ├── README.md └── requirements.txt
 
 ## Setup & Installation
 
 Install the necessary Python packages:
 
+```bash
 pip install -r requirements.txt
-
 
 ## Usage
 
