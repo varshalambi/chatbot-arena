@@ -29,8 +29,8 @@ My approach utilizes:
 Install the necessary Python packages:
 
 ```bash
-pip install -r requirements.txt
-bash```
+pip3 install -r requirements.txt
+```
 
 ## Usage
 
