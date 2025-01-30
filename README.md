@@ -28,9 +28,6 @@ My approach utilizes:
 │   └── LaBSE_model
 ├── notebooks
 │   └── prediction_notebook.ipynb
-├── src
-│   ├── model.py
-│   └── utils.py
 ├── README.md
 └── requirements.txt
 ```
